@@ -28,7 +28,7 @@ public class JavaGmail {
 //        System.out.print(fmail);
         
         final String username = "nepalfutsal665@gmail.com";
-		final String password = "nepalfutsal2052";
+		final String password = "";//password
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
