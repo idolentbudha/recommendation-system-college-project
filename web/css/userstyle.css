@@ -1,0 +1,90 @@
+body{
+	background-color:grey;
+}
+
+#profilePhoto{
+	    border-radius: 8px;
+	    height: 170px;
+	    width: 150px;	    
+
+}
+.userImage .img-responsive{
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+
+.userName{
+	margin-top: 20px;
+}
+
+.bgUser{
+	background-image: url(../img/blur.jpg);
+	height: 350px;
+}
+
+.userBar ul li a{
+	text-decoration: none;
+}
+
+.userBar ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #7f7779;
+}
+
+.userBar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.userBar li a:hover:not(.active) {
+    background-color: #845763;
+}
+
+.userBar li a.active {
+    color: white;
+    background-color: #845763;
+}
+
+.gesture{
+	text-align: center;
+	size: 24px;
+	color: grey;
+	margin-top: 50px;
+}
+
+#uploadPhoto
+{
+	margin: 0 auto;
+}
+
+.editButton{
+	margin-top: 50px;
+}
+
+.myPage{
+	background-color: #100d2d;
+	color: white;
+	box-shadow:3px 3px 5px 6px #ccc;
+}
+
+li .active{
+	color: #845763;
+}
+
+#demo1{
+	color: white;
+	background: #100d2d;
+	padding: 25px;
+	box-shadow:3px 3px 5px 6px #ccc;
+}
+
+
+
+/*rating Star*/
